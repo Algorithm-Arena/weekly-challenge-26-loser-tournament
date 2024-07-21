@@ -4,6 +4,26 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-26-loser-tournament/assets/197597/359bc13e-fa64-4862-9085-f258cf072321">
 
+### Winners:
+
+* The winner for $75 is @nikpundik by creating a board game where people vote for who is the worst at a topic each round. The worst loser ends up winning in the end. So clever! https://github.com/Algorithm-Arena/weekly-challenge-26-loser-tournament/issues/1
+
+
+https://github.com/user-attachments/assets/c9222287-d2e0-4222-871c-70704baf6c01
+
+
+* In second place for $50 is @PuttTim! You can find yourself in a situation in Valorant where you are almost lost but clutch a round. Using this to determine the outcome of the tournament helps the losers! https://github.com/Algorithm-Arena/weekly-challenge-26-loser-tournament/issues/3
+
+
+https://github.com/user-attachments/assets/492ca176-37ba-4213-b964-5e3229d7c1fe
+
+
+* In third place for $25 is @Krayorn! The easiest way to get the worst person to win is to give them a huge amount of point if they win against somebody higher ELO than them. https://github.com/Algorithm-Arena/weekly-challenge-26-loser-tournament/issues/2
+
+
+https://github.com/user-attachments/assets/5bc8ff7e-5193-4a8d-a43e-302cf313cab2
+
+
 ### Prizes:
 * Winner: $75
 * 2nd: $50
